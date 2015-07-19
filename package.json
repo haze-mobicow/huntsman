@@ -35,7 +35,7 @@
     "cheerio": "0.15.0",
     "regexemitter": "0.2.3",
     "semver": "3.0.1",
-    "superagent": "0.18.0"
+    "superagent": "1.2.0"
   },
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha --recursive --reporter spec --compilers coffee:coffee-script/register test"
