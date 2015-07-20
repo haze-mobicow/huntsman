@@ -35,7 +35,7 @@
     "cheerio": "0.15.0",
     "regexemitter": "0.3.0",
     "semver": "3.0.1",
-    "superagent": "https://github.com/haze-mobicow/superagent.git#master"
+    "superagent": "1.2.0"
   },
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha --recursive --reporter spec --compilers coffee:coffee-script/register test"
