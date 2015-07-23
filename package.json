@@ -36,6 +36,7 @@
     "cheerio": "0.15.0",
     "regexemitter": "0.3.0",
     "semver": "3.0.1",
+    "lodash":"*",
     "superagent": "1.2.0"
   },
   "scripts": {
